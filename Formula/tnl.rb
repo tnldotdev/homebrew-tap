@@ -1,5 +1,5 @@
 class Tnl < Formula
-  desc "public urls for collaborative dev."
+  desc "take a shortcut through the internet."
   homepage "https://github.com/tnldotdev/tnl"
   version "0.1.0-rc.5"
   license "MIT"
